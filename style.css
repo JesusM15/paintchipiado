@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#documentDrawArea{
+	border: 1px solid #000;
+}
+
+.container, .container1{
+	display: flex;
+	justify-content: center;
+}
